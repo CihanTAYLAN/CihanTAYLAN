@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/cihantaylan"><img src="https://api.daily.dev/devcards/75267d96d69b427ca46228bb65b01124.png?r=e26" width="400" alt="Cihan Taylan's Dev Card"/></a>
+<img src="https://github.com/CihanTAYLAN/CihanTAYLAN/blob/main/devcard.svg">
