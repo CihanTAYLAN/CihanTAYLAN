@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-div
-
+<div style="display:flex;">
+  <div>
 I' am
 
 
@@ -12,9 +12,17 @@ I' am
 ┃╰━╯┃┃┃┃┃╭╮┃┃┃┃╱╱┃┃╱┃╭━╮┃╱┃┃╱┃╰━╯┃╭━╮┃┃╱┃┃┃\
 ╰━━━┻┻╯╰┻╯╰┻╯╰╯╱╱╰╯╱╰╯╱╰╯╱╰╯╱╰━━━┻╯╱╰┻╯╱╰━╯  𝙏𝙚𝙘𝙝 𝙇𝙚𝙖𝙙
 
+  </div>
+  <div>
+
+    <img style="width:100%" src="https://github.com/CihanTAYLAN/CihanTAYLAN/blob/main/devcard.svg">
+  </div>
+</div>
 
 
 
+
+<!--
 **cihantaylan/cihantaylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/CihanTAYLAN/CihanTAYLAN/blob/main/devcard.svg">
+
