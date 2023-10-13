@@ -16,7 +16,7 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/cihantaylan?cardType=level-alternate&theme=react&preferLogin=false&Title=BBFF51&Background=323E4DB8&Text=BBFF51&Border=000000&Ring=27DD00"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
     <td> </td>
   </tr>
