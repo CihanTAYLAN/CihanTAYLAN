@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top">
     <h2>Hi there 👋</h2>
     I' am
 
@@ -15,8 +15,10 @@
         <a target="blank" href="https://cihantaylan.com"><img src="https://github.com/CihanTAYLAN/CihanTAYLAN/blob/main/devcard.svg"><a/>
     </td>
   </tr>
+</table>
+<table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
   </tr>
 </table>
