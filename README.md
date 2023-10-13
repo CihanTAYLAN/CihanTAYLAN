@@ -18,6 +18,8 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=cihantaylan&theme=onedark&row=2&column=3"></td>
+  </tr>
+  <tr>
+    <td colspan=3><img src="https://github-profile-trophy.vercel.app/?username=cihantaylan&theme=onedark"></td>
   </tr>
 </table>
