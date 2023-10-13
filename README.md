@@ -23,6 +23,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan=3><img src="https://github-profile-trophy.vercel.app/?username=cihantaylan&theme=matrix&row=1&column=9"></td>
+    <td colspan=3><img src="https://github-profile-trophy.vercel.app/?username=cihantaylan&theme=gitdimmed&row=1&column=9"></td>
   </tr>
 </table>
