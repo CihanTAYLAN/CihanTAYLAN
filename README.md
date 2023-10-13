@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" style="width:100%">
   <tr>
     <td valign="top">
     <h2>Hi there 👋</h2>
@@ -16,9 +16,9 @@
     </td>
   </tr>
 </table>
-<table border="0">
+<table border="0" style="width:100%">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
   </tr>
 </table>
