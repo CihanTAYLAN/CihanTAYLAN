@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td valign="top">
+    <td valign="top" colspan="2">
     <h2>Hi there 👋</h2>
     I' am
 
@@ -17,6 +17,6 @@
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=cihantaylan&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihantaylan&langs_count=8&layout=compact&hide=css,makefile&theme=radical"></td>
   </tr>
 </table>
