@@ -12,7 +12,7 @@
 ╰━━━┻┻╯╰┻╯╰┻╯╰╯╱╱╰╯╱╰╯╱╰╯╱╰╯╱╰━━━┻╯╱╰┻╯╱╰━╯  𝙏𝙚𝙘𝙝 𝙇𝙚𝙖𝙙
     </td>
       <td valign="top">
-        <a target="blank" href="https://cihantaylan.com"><img src="https://github.com/CihanTAYLAN/CihanTAYLAN/blob/main/devcard.svg"><a/>
+        <a target="blank" href="https://cihantaylan.com"><img src="https://api.daily.dev/devcards/v2/XGlrabrwUclDheMxIQWT5.png?r=jkh" alt="Cihan Taylan's Dev Card"/><a/>
       </td>
   </tr>
   <tr>
