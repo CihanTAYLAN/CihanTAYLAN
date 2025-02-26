@@ -26,7 +26,5 @@
 <hr />
 <div align="center">
   <h3>What I use?<h3/>
-<p>
     <img src="https://skillicons.dev/icons?i=aws,apple,arduino,azure,bash,bootstrap,css,dart,discord,devto,docker,dynamodb,elasticsearch,electron,express,fastapi,flutter,github,gitlab,go,html,js,jenkins,kafka,kubernetes,laravel,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,prisma,prometheus,py,rabbitmq,raspberrypi,react,redis,redux,regex,sass,sqlite,stackoverflow,supabase,tailwind,threejs,ubuntu,vscode,vite,webpack,yarn" />
-</p>
 </div>
