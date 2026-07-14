@@ -9,7 +9,7 @@
         <a href="https://cihantaylan.com" target="_blank"><img src="https://img.shields.io/badge/Website-cihantaylan.com-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
         <a href="https://github.com/CihanTAYLAN" target="_blank"><img src="https://img.shields.io/badge/GitHub-CihanTAYLAN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
         <a href="https://www.linkedin.com/in/cihan-taylan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Cihan%20Taylan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:cihantaylan.com@cihantaylan.com"><img src="https://img.shields.io/badge/Email-cihan%40cihantaylan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="mailto@cihantaylan.com"><img src="https://img.shields.io/badge/Email-cihantaylan%40cihantaylan.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
       </p>
       <p align="center">
         <img src="https://komarev.com/ghpvc/?username=CihanTAYLAN&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
