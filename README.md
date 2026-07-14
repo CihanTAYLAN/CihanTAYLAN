@@ -27,33 +27,33 @@
   </tr>
 
   <tr>
-    <td valign="top" width="50%">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CihanTAYLAN&theme=tokyonight" alt="GitHub Stats" />
+    <td valign="top" width="50%" align="center">
+      <h2>📈 Contribution Graph</h2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihanTAYLAN&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h2>🔥 Contribution Streak</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=CihanTAYLAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 
   <tr>
-    <td valign="top" width="50%">
-      <h2>📈 Contribution Graph</h2>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihanTAYLAN&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+    <td valign="top" width="50%" align="center">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CihanTAYLAN&theme=tokyonight" alt="GitHub Stats" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h2>🗣️ Most Used Languages</h2>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CihanTAYLAN&theme=tokyonight&exclude=HTML,CSS,SCSS,Less,Vue,Handlebars,EJS" alt="Most Used Languages" />
     </td>
   </tr>
 
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h2>💻 Top Languages by Commit</h2>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CihanTAYLAN&theme=tokyonight&exclude=HTML,CSS,SCSS,Less,Vue,Handlebars,EJS" alt="Top Languages by Commit" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
       <h2>📦 Repositories</h2>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CihanTAYLAN&theme=tokyonight&exclude=HTML,CSS,SCSS,Less,Vue,Handlebars,EJS" alt="Repos Per Language" />
     </td>
